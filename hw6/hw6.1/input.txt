@@ -1,0 +1,9 @@
+AddLeft 5
+AddRight 10
+AddLeft 3
+Left
+Right
+DeleteLeft
+DeleteRight
+IsEmpty
+End
